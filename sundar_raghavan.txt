@@ -6,6 +6,8 @@ touch <file name> - creates files
 
 Open <file name> - opens files
 
+Ls - lists contents of a brach
+
 Git add <file name> - adds files to existing branch 
 
 Git status - displays the status of the last performed action
@@ -17,3 +19,5 @@ Git branch - shows you the branch you're in
 Git merge <branch1> <branch2> - merges branches 
 
 Git mv <old name> <new name> - renames file 
+
+Git pull - pulls most recent changes from the repo given
