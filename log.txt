@@ -1,7 +1,0 @@
-Steps involved-
-1. Git clone - makes a copy of the given repo in your system
-2. Git checkout -b - creates a new branch and takes you to it as well
-3. Git checkout - used to navigate b/w branches
-4. touch - used to create a new file 
-5. Git add - used to add an existing file 
-6. Git branch - used to check the current branch you're in
