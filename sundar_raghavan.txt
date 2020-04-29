@@ -16,8 +16,11 @@ Git commit -m "commit msg" - saves changes to the branch (-m is used to enter a 
 
 Git branch - shows you the branch you're in
 
-Git merge <branch1> <branch2> - merges branches 
+Git merge <branch1> <branch2> - merges branches (or) git merge <branch name> - to merge given branch and the branch you're in
 
 Git mv <old name> <new name> - renames file 
 
 Git pull - pulls most recent changes from the repo given
+
+Git request-pull <modified branch> <upstream repo link> <original branch> - initiates a pull request
+
