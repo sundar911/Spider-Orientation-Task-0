@@ -1,9 +1,19 @@
-Git clone - clones the given repo to your system
-Git checkout -b - creates and takes you to a new branch
-touch - creates files 
-Open - opens files
-Git add - adds files to existing branch 
+Git clone <repo link> - clones the given repo to your system
+
+Git checkout -b <branch name> - creates and takes you to a new branch
+
+touch <file name> - creates files 
+
+Open <file name> - opens files
+
+Git add <file name> - adds files to existing branch 
+
 Git status - displays the status of the last performed action
-Git commit -m - saves changes to the branch (-m is used to enter a commit message for future reference)
+
+Git commit -m "commit msg" - saves changes to the branch (-m is used to enter a commit message for future reference)
+
 Git branch - shows you the branch you're in
 
+Git merge <branch1> <branch2> - merges branches 
+
+Git mv <old name> <new name> - renames file 
